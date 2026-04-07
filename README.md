@@ -86,32 +86,7 @@ Grad-CAM Visualization
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/XAI-Cattle-Breed-Recognition.git
-cd XAI-Cattle-Breed-Recognition
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-### Train the model
-
-```bash
-python src/train.py
-```
-
-### Evaluate the model
-
-```bash
-python src/evaluate.py
-```
-
----
-
+## Project Structure
 XAI-Cattle-Breed-Recognition/
 │
 ├── notebooks/
@@ -127,7 +102,7 @@ XAI-Cattle-Breed-Recognition/
 ## 👨‍💻 Author
 
 * Group Project
-* **Primary Contributor:** Your Name (Led full pipeline development and implementation)
+* **Primary Contributor:** P Mukeswara Reddy (Led full pipeline development and implementation)
 
 ---
 
